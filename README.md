@@ -3,7 +3,7 @@
 ### Hi there!! I'm Juliana happy that you check out my profile! 👋 :squirrel:
 
 
-<div align="center"><img src="Juliana.gif" width="500" height="450"/>
+<div align="center"><img src="Juliana.gif" width="600" height="500"/>
 
 <!--
 **julianamonr03/julianamonr03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
