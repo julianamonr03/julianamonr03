@@ -11,8 +11,8 @@
 
 
 <!--  GitHub Stats --->
-<a><img width="430" img align="center" alt="Juliana's Stats" src="https://github-readme-stats.vercel.app/api?username=julianamonr03&show_icons=true&theme=radical" />
-</a><a><img width="430" img align="center" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianamonr03&layout=compact&hide=perl&theme=radical" /></a>
+<a><img width="425" img align="center" alt="Juliana's Stats" src="https://github-readme-stats.vercel.app/api?username=julianamonr03&show_icons=true&theme=radical" />
+</a><a><img width="425" img align="center" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianamonr03&layout=compact&hide=perl&theme=radical" /></a>
 
 
 <!-- Contact info -->
