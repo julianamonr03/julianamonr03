@@ -20,11 +20,11 @@
 > **If you're interested in my work or you want to explore some projects with me, don't hesitate to reach me, i would love to!!!💜**
 
 
-📫 **How to reach me:**
+📫 **How to reach me:** 
 
-[<img align="center" alt="contact | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/julianamonroy03)
+[<img align="center" alt="contact | Twitter" width="22px" src="https://github.com/deut-erium/deut-erium/blob/master/assets/twitter.svg" />](https://twitter.com/julianamonroy03)
 [<img align="center" alt="contact | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/juliana-monroy-5760b9199/)
 [<img align="center" alt="contact | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/julianamonr03/)
-[<img align="center" alt="contact | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />](https://discord.com/users/deuterium#0883)
+[<img align="center" alt="contact | Instagram" width="22px" src="https://github.com/deut-erium/deut-erium/blob/master/assets/discord.svg" />](https://discord.com/users/deuterium#0883)
 
 
