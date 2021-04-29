@@ -4,7 +4,7 @@
 <img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gandalf_parrot.gif" width="30px"/>
 
 
-<div align="center"><img src="Juliana.gif" width="900" height="500"/>
+<div align="center"><img src="githubimg.gif" width="900" height="500"/>
 
 
 --------
