@@ -4,7 +4,7 @@
 <img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gandalf_parrot.gif" width="30px"/>
 
 
-<div align="center"><img src="githubimg.gif" width="900" height="500"/>
+<div align="center"><img src="img/gifgithub.gif" width="900" height="500"/>
 
 
 --------
@@ -29,3 +29,4 @@
 [<img align="center" alt="contact | Instagram" width="27px" src="https://github.com/deut-erium/deut-erium/blob/master/assets/discord.svg" />](https://discord.com/users/deuterium#0883)
 
 
+<div align="center"><img src="img/gameover.gif" width="900" height="300"/>
