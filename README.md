@@ -29,4 +29,4 @@
 [<img align="center" alt="contact | Instagram" width="27px" src="https://github.com/deut-erium/deut-erium/blob/master/assets/discord.svg" />](https://discord.com/users/deuterium#0883)
 
 
-<div align="center"><img src="img/gameover.gif" width="900" height="300"/>
+<!-- <div align="center"><img src="img/gameover.gif" width="900" height="300"/> -->
